@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "img": "images/rest.png",
+            "project_link": "https://negm12.github.io/resturant/",
+            "title": "resturant",
+            "descreption": "this is a landing page for a resturant made by vue framework"
+        },
+        {
+            "img": "images/negm.png",
+            "project_link": "https://negm12.github.io/first-project-of-proffitional-fwd/",
+            "title": "hotel",
+            "descreption": "this is a landing page for a hotel made by vue framework"
+        }
+    ]
+}
